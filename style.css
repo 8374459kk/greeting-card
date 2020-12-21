@@ -1,0 +1,13 @@
+.heading  p {
+  font-size: 10px;
+ text-align: center;
+ text-decoration: underline;
+ text-decoration-color: red;
+ color:green;
+ font-family:Langar;
+}
+.img{
+
+width:100%;
+border-radius: 30px;
+}
